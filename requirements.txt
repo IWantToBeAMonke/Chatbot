@@ -1,0 +1,8 @@
+numpy
+espeakng-loader
+phonemizer-fork
+colorlog
+onnxruntime-directml
+soundfile
+llama-cpp-python
+sounddevice

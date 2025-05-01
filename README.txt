@@ -1,0 +1,1 @@
+Download kokoro-v1.0.onnx and voices-v1.0.bin and put them in the project root folder and download your LLama GGUF model and place it in the Models folder. May need a tweak in main.py for the model name.
